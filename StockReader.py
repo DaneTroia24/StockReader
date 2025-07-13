@@ -159,7 +159,6 @@ def get_api_key():
             
         return api_key
 
-# Main execution
 if __name__ == "__main__":
     print("=== Stock Price Tracker ===\n")
     
